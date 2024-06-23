@@ -38,15 +38,14 @@ Multiple machine learning models were evaluated with Random Forest, Extra Tree, 
 
 ### Confusion Matrix Comparison
 Comparison between VGG16 and GLCM based on their confusion matrices:
-
-![Confusion Matrix VGG16](fig/6.jpg)
-![Confusion Matrix GLCM](fig/7.jpg)
+<img src="fig/6.jpg" alt="GUI Example" width="300px"/>
+<img src="fig/7.jpg" alt="GUI Example" width="300px"/>
 
 ## GUI and Web Application
 A GUI and a mobile web application were developed to facilitate easy model interaction and testing.
 
-<img src="fig/4.jpg" alt="GUI Example" width="100px"/>
-<img src="fig/b1.png" alt="Initial Interface" width="100px"/>
+<img src="fig/4.jpg" alt="GUI Example" width="300px"/>
+<img src="fig/b1.png" alt="Initial Interface" width="300px"/>
 
 ## Conclusion
 The model achieved an 84% test accuracy, effectively classifying buildings while avoiding overfitting.
