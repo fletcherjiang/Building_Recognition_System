@@ -45,7 +45,7 @@ Comparison between VGG16 and GLCM based on their confusion matrices:
 ## GUI and Web Application
 A GUI and a mobile web application were developed to facilitate easy model interaction and testing.
 
-![GUI Example](fig/4.jpg)
+<img src="fig/4.jpg" alt="GUI Example" style="zoom:50%;" />
 ![Mobile Web App - Initial Interface](fig/b1.png)
 
 ## Conclusion
