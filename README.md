@@ -45,8 +45,8 @@ Comparison between VGG16 and GLCM based on their confusion matrices:
 ## GUI and Web Application
 A GUI and a mobile web application were developed to facilitate easy model interaction and testing.
 
-<img src="fig/4.jpg" alt="GUI Example" style="zoom:50%;" />
-![Mobile Web App - Initial Interface](fig/b1.png)
+<img src="fig/4.jpg" alt="GUI Example" width="100px"/>
+<img src="fig/b1.png" alt="Initial Interface" width="100px"/>
 
 ## Conclusion
 The model achieved an 84% test accuracy, effectively classifying buildings while avoiding overfitting.
