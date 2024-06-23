@@ -38,8 +38,8 @@ Multiple machine learning models were evaluated with Random Forest, Extra Tree, 
 
 ### Confusion Matrix Comparison
 Comparison between VGG16 and GLCM based on their confusion matrices:
-<img src="fig/6.jpg" alt="GUI Example" width="300px"/>
-<img src="fig/7.jpg" alt="GUI Example" width="300px"/>
+<img src="fig/6.jpg" alt="GUI Example" width="500px"/>
+<img src="fig/7.jpg" alt="GUI Example" width="500px"/>
 
 ## GUI and Web Application
 A GUI and a mobile web application were developed to facilitate easy model interaction and testing.
